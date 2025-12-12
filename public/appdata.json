@@ -1,0 +1,523 @@
+[
+  {
+    "image": "https://img.icons8.com/color/512/todo-list.png",
+    "title": "TaskFlow: Productivity Manager",
+    "companyName": "NovaSoft Ltd",
+    "id": 1,
+    "description": "TaskFlow helps users organize tasks with smart reminders, priority sorting, and daily productivity insights to maintain consistent workflow habits.",
+    "size": 42,
+    "reviews": 1540,
+    "ratingAvg": 4.5,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 690 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/512/heart-with-pulse.png",
+    "title": "FitBuddy: Health & Fitness",
+    "companyName": "HealthVerse",
+    "id": 2,
+    "description": "FitBuddy offers personalized workouts, real-time activity tracking, and intelligent analytics to help you stay active and maintain a healthy lifestyle.",
+    "size": 55,
+    "reviews": 3200,
+    "ratingAvg": 4.7,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 720 },
+      { "name": "5 star", "count": 2010 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/512/money-bag.png",
+    "title": "BudgetWise: Expense Tracker",
+    "companyName": "FinancePro",
+    "id": 3,
+    "description": "BudgetWise allows users to manage income, track expenses, and view financial insights with beautifully visualized graphs and intelligent budget suggestions.",
+    "size": 33,
+    "reviews": 980,
+    "ratingAvg": 4.3,
+    "downloads": 95000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 190 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 390 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/512/image.png",
+    "title": "PhotoMagic: AI Editor",
+    "companyName": "PixelWave",
+    "id": 4,
+    "description": "PhotoMagic uses advanced AI to enhance photos, remove backgrounds, apply filters, and generate aesthetic edits with one simple click.",
+    "size": 72,
+    "reviews": 4320,
+    "ratingAvg": 4.8,
+    "downloads": 820000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 2850 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/512/graduation-cap.png",
+    "title": "EduMaster: Learning App",
+    "companyName": "BrightMind",
+    "id": 5,
+    "description": "EduMaster makes learning easy with bite-sized lessons, quizzes, gamified challenges, and progress tracking designed for students of all ages.",
+    "size": 60,
+    "reviews": 2890,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 330 },
+      { "name": "4 star", "count": 880 },
+      { "name": "5 star", "count": 1420 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/3d-fluency/256/rocket.png",
+    "title": "SkyLaunch: Startup Tools",
+    "companyName": "NovaLaunch",
+    "id": 6,
+    "description": "SkyLaunch helps entrepreneurs plan, track, and grow ideas with business templates, financial estimators, and productivity boosters.",
+    "size": 48,
+    "reviews": 890,
+    "ratingAvg": 4.2,
+    "downloads": 88000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 300 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/512/music.png",
+    "title": "MelodyWave: Music Player",
+    "companyName": "WaveSound",
+    "id": 7,
+    "description": "MelodyWave offers high-quality audio playback with customizable equalizers, playlists, and offline music syncing for effortless listening.",
+    "size": 65,
+    "reviews": 2300,
+    "ratingAvg": 4.6,
+    "downloads": 510000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 720 },
+      { "name": "5 star", "count": 1100 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/512/chat.png",
+    "title": "ChitChat: Social Messenger",
+    "companyName": "Chatify",
+    "id": 8,
+    "description": "ChitChat makes communication fun with animated stickers, voice rooms, instant sharing, and secure cloud-based messaging.",
+    "size": 58,
+    "reviews": 5200,
+    "ratingAvg": 4.5,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 2980 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/512/map.png",
+    "title": "TravelMate: Trip Planner",
+    "companyName": "GlobeWay",
+    "id": 9,
+    "description": "TravelMate helps travelers explore destinations, book hotels, map routes, and manage itineraries with personalized recommendations.",
+    "size": 70,
+    "reviews": 2100,
+    "ratingAvg": 4.3,
+    "downloads": 240000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 310 },
+      { "name": "4 star", "count": 620 },
+      { "name": "5 star", "count": 900 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/512/calendar.png",
+    "title": "DayPlanner: Smart Calendar",
+    "companyName": "DailyBee",
+    "id": 10,
+    "description": "DayPlanner syncs all schedules into one place with reminders, event suggestions, and clean calendar visuals to keep your days organized.",
+    "size": 40,
+    "reviews": 1500,
+    "ratingAvg": 4.4,
+    "downloads": 130000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 690 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/color/512/camera.png",
+    "title": "Snapster: Smart Camera",
+    "companyName": "LensLab",
+    "id": 11,
+    "description": "Snapster brings DSLR-style camera features to your phone with AI stabilization, filters, and instant enhancement tools.",
+    "size": 74,
+    "reviews": 4600,
+    "ratingAvg": 4.7,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/512/book.png",
+    "title": "Readify: Book Library",
+    "companyName": "BookNest",
+    "id": 12,
+    "description": "Readify lets readers explore ebooks, audiobooks, summaries, and curated reading lists to build strong learning habits.",
+    "size": 55,
+    "reviews": 3900,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 1940 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/color/512/brain.png",
+    "title": "MindZen: Focus & Meditation",
+    "companyName": "CalmNest",
+    "id": 13,
+    "description": "MindZen provides guided meditations, breathing exercises, and focus music to help users relax, de-stress, and improve concentration.",
+    "size": 47,
+    "reviews": 2300,
+    "ratingAvg": 4.6,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 720 },
+      { "name": "5 star", "count": 1160 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/color/512/paint-palette.png",
+    "title": "ColorCraft: Drawing App",
+    "companyName": "Artify",
+    "id": 14,
+    "description": "ColorCraft offers digital brushes, layers, palettes, and creative tools for beginners and artists to draw freely.",
+    "size": 66,
+    "reviews": 2900,
+    "ratingAvg": 4.4,
+    "downloads": 410000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 360 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1340 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/color/512/cloud.png",
+    "title": "CloudSync: File Storage",
+    "companyName": "SyncVault",
+    "id": 15,
+    "description": "CloudSync helps users securely store, share, and back up files across devices with fast syncing and easy collaboration.",
+    "size": 85,
+    "reviews": 5100,
+    "ratingAvg": 4.5,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 2810 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/fluency/256/partly-cloudy-day.png",
+    "title": "WeatherCast: Live Forecast",
+    "companyName": "SkyNet",
+    "id": 16,
+    "description": "WeatherCast provides hyper-accurate forecasts, live radar, storm alerts, and climate insights for your exact location.",
+    "size": 44,
+    "reviews": 3400,
+    "ratingAvg": 4.3,
+    "downloads": 260000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 320 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1880 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/color/512/clock.png",
+    "title": "TimeKeeper: Focus Timer",
+    "companyName": "FocusLab",
+    "id": 17,
+    "description": "TimeKeeper is a modern Pomodoro timer that helps users stay focused with sessions, analytics, and calming animations.",
+    "size": 38,
+    "reviews": 1800,
+    "ratingAvg": 4.5,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 190 },
+      { "name": "4 star", "count": 540 },
+      { "name": "5 star", "count": 930 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/color/512/security-checked.png",
+    "title": "SecureSafe: Password Manager",
+    "companyName": "LockBox",
+    "id": 18,
+    "description": "SecureSafe stores and encrypts passwords, autofills logins, and syncs data across devices while maintaining top-tier security.",
+    "size": 90,
+    "reviews": 3800,
+    "ratingAvg": 4.7,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1050 },
+      { "name": "5 star", "count": 2190 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/color/512/puzzle.png",
+    "title": "BrainBox: Puzzle Games",
+    "companyName": "GameHub",
+    "id": 19,
+    "description": "BrainBox offers logic puzzles, memory games, and brain-training challenges to improve cognitive skills.",
+    "size": 70,
+    "reviews": 4100,
+    "ratingAvg": 4.6,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 170 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 2230 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/color/512/shopping-bag.png",
+    "title": "ShopEase: Online Shopping",
+    "companyName": "MegaMart",
+    "id": 20,
+    "description": "ShopEase brings the best deals, fast delivery, smart recommendations, and smooth checkout experience in a clean interface.",
+    "size": 88,
+    "reviews": 6400,
+    "ratingAvg": 4.4,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 620 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 3030 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/color/512/youtube-play.png",
+    "title": "StreamHive: Video Hub",
+    "companyName": "VidLabs",
+    "id": 21,
+    "description": "StreamHive gives access to curated videos, playlists, creators, and personalized recommendations for endless entertainment.",
+    "size": 74,
+    "reviews": 5200,
+    "ratingAvg": 4.5,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 410 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2820 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/color/512/goal.png",
+    "title": "Goalify: Habit Builder",
+    "companyName": "Motivo",
+    "id": 22,
+    "description": "Goalify helps users build strong habits with streaks, reminders, analytics, and motivational reward systems.",
+    "size": 34,
+    "reviews": 2600,
+    "ratingAvg": 4.6,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 720 },
+      { "name": "5 star", "count": 1460 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/color/512/pet.png",
+    "title": "PetCare: Animal Tracker",
+    "companyName": "Petify",
+    "id": 23,
+    "description": "PetCare allows owners to track pet health, record vet visits, set feeding schedules, and receive smart pet care reminders.",
+    "size": 52,
+    "reviews": 1700,
+    "ratingAvg": 4.4,
+    "downloads": 140000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 850 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/color/512/car.png",
+    "title": "DriveMate: Car Assistant",
+    "companyName": "AutoSync",
+    "id": 24,
+    "description": "DriveMate helps drivers track fuel usage, service dates, routes, and performance statistics for better driving efficiency.",
+    "size": 78,
+    "reviews": 2900,
+    "ratingAvg": 4.5,
+    "downloads": 380000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1480 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/color/512/dumbbell.png",
+    "title": "GymPro: Workout Coach",
+    "companyName": "StrongFit",
+    "id": 25,
+    "description": "GymPro features tailored workouts, muscle guides, trainer videos, and progress tracking for fitness enthusiasts.",
+    "size": 62,
+    "reviews": 4100,
+    "ratingAvg": 4.7,
+    "downloads": 610000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 2300 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/emoji/256/flying-saucer.png",
+    "title": "DroneX: Drone Controller",
+    "companyName": "AeroTech",
+    "id": 26,
+    "description": "DroneX gives full control over drones with live feed, auto-stabilization, custom routes, and advanced flight settings.",
+    "size": 85,
+    "reviews": 1500,
+    "ratingAvg": 4.3,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 520 },
+      { "name": "5 star", "count": 610 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/emoji/96/magic-wand.png",
+    "title": "WishCraft: Manifestation App",
+    "companyName": "DreamFlow",
+    "id": 27,
+    "description": "WishCraft allows users to set intentions, visualize goals, write affirmations, and practice manifestation routines.",
+    "size": 45,
+    "reviews": 2400,
+    "ratingAvg": 4.6,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 750 },
+      { "name": "5 star", "count": 1230 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/color/512/sun.png",
+    "title": "Sunrise Journal: Mood Tracker",
+    "companyName": "GlowUp",
+    "id": 28,
+    "description": "Sunrise Journal helps users track daily moods, write reflections, check emotional patterns, and practice gratitude.",
+    "size": 58,
+    "reviews": 3900,
+    "ratingAvg": 4.7,
+    "downloads": 480000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 2490 }
+    ]
+  }
+]
