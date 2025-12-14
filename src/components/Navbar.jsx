@@ -13,11 +13,15 @@ const Navbar = () => {
       <ul
         tabIndex="-1"
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-        <li><a>Home</a></li>
         <li>
-          <a>Apps</a>
+          <Link to='/'>Home</Link>
         </li>
-        <li><a>Installation</a></li>
+        <li>
+          <Link to='/Apps'>Apps</Link>
+        </li>
+        <li>
+          <Link to='/installed'>Installation</Link>
+        </li>
       </ul>
     </div>
     <img className='h-6' src="../../assets/logo.png" alt="logo" />
@@ -25,11 +29,15 @@ const Navbar = () => {
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
-      <li><a>Home</a></li>
+      <li>
+        <Link to='/'>Home</Link>
+      </li>
       <li>
         <Link to='/Apps'>Apps</Link>
       </li>
-      <li><a>Installation</a></li>
+      <li>
+        <Link to='/installed'>Installation</Link>
+      </li>
     </ul>
   </div>
   <div className="navbar-end">

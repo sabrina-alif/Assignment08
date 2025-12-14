@@ -19,16 +19,27 @@ const Banner = () => {
         </p>
 
         <div className="mt-6 flex flex-wrap justify-center gap-4">
-          <button className="btn bg-white shadow text-black rounded-full">
-            <FaGooglePlay />
-            Google Play
-          </button>
+  <a
+    href="https://play.google.com/store"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="btn bg-white shadow text-black rounded-full flex items-center gap-2"
+  >
+    <FaGooglePlay />
+    Google Play
+  </a>
 
-          <button className="btn bg-white shadow text-black rounded-full">
-            <FaApple />
-            App Store
-          </button>
-        </div>
+  <a
+    href="https://www.apple.com/app-store/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="btn bg-white shadow text-black rounded-full flex items-center gap-2"
+  >
+    <FaApple />
+    App Store
+  </a>
+</div>
+
       </div>
 
       <div className="flex justify-center mt-12">
