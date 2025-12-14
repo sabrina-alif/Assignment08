@@ -1,12 +1,14 @@
 import React from 'react';
 import { IoMdDownload } from "react-icons/io";
 import { FaStarHalfAlt } from "react-icons/fa";
+import { Link } from 'react-router';
 
 const AppCard = ({app}) => {
     const {title, image,ratingAvg,downloads} = app
     return (
-        <div>
-            <div className="card bg-white w-64 shadow-xl hover:scale-105 transition ease-in-out">
+
+  <Link to='/app/id'>
+  <div className="card bg-white w-64 shadow-xl hover:scale-105 transition ease-in-out">
   <figure>
     <img className='w-48 bg-amber-200'
       src={image}
@@ -20,7 +22,8 @@ const AppCard = ({app}) => {
     </div>
   </div>
 </div>
-        </div>
+  </Link>
+
     );
 };
 

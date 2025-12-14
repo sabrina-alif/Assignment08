@@ -6,7 +6,7 @@ import { TiSocialFacebookCircular } from "react-icons/ti";
 const Footer = () => {
     return (
     <div className=''>
-      <footer className="footer sm:footer-horizontal bg-gray-50 text-black items-center p-4">
+      <footer className="footer sm:footer-horizontal items-center p-4">
         
         <aside className="grid-flow-col items-center">
 
@@ -26,7 +26,7 @@ const Footer = () => {
         </nav>
       </footer>
 
-      <footer className="footer footer-center bg-gray-50 text-black p-4">
+      <footer className="footer footer-center  p-4">
         <aside>
           <p>
             Copyright © {new Date().getFullYear()} - 

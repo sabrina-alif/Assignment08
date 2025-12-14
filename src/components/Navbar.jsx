@@ -1,5 +1,6 @@
 import React from 'react';
 import { AiFillGithub } from "react-icons/ai";
+import { Link } from 'react-router';
 
 const Navbar = () => {
     return (
@@ -26,7 +27,7 @@ const Navbar = () => {
     <ul className="menu menu-horizontal px-1">
       <li><a>Home</a></li>
       <li>
-        <a>Apps</a>
+        <Link to='/Apps'>Apps</Link>
       </li>
       <li><a>Installation</a></li>
     </ul>

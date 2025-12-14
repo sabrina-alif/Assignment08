@@ -1,10 +1,12 @@
 import React from 'react';
 import Banner from '../components/Banner';
-import { useLoaderData } from 'react-router';
+import { Link } from "react-router";
 import AppCard from '../components/AppCard';
+import useApps from '../hooks/useApps';
+
 
 const Home = () => {
-    const apps = useLoaderData()
+    const {apps} = useApps()
     const featuredApp = apps.slice(0,6)
     return (
         <>
@@ -23,6 +25,9 @@ const Home = () => {
                 ))
             }
            </div>
+        </div>
+        <div className='bg-gray-50 flex      justify-center'>
+            <Link to='/apps' className='bg-violet-600 btn bg-gradient-to-r from-violet-600 to-violet-500 rounded-2xl m-2.5'>See All</Link>
         </div>
         </>
     );
